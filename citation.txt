@@ -1,0 +1,5 @@
+title={Staple: Complementary Learners for Real-time Tracking},
+  author={Bertinetto, Luca and Valmadre, Jack and Golodetz, Stuart and Miksik, Ondrej and Torr, Philip HS},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={1401--1409},
+  year={2016}
